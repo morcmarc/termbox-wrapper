@@ -1,6 +1,6 @@
 #tbw
 
-Interface and a API wrapper for [termbox-go](https://github.com/nsf/termbox-go).
+Interface and API wrapper for [termbox-go](https://github.com/nsf/termbox-go).
 
 ##Use case
 
